@@ -625,7 +625,7 @@ svg[name="Activity"] {
 }
 
 .base-2jDfDU {
-  border-radius: 35 !important;
+  border-radius: 0 !important;
 }
 
 .platform-osx .base-2jDfDU {
@@ -633,7 +633,7 @@ svg[name="Activity"] {
 }
 
 .guilds-2JjMmN {
-  border-radius: 35;
+  border-radius: 0;
 }
 
 #app-mount .wrapper-28eC3z .childWrapper-1j_1ub {
