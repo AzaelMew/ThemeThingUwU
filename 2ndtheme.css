@@ -506,9 +506,9 @@ You need to restart (click the restart button) after changing. */
 
 :root {
 --roundness: 50px;
---main-color: #5EA4C6FF;
---hover-color: #488DAEFF;
---home-color: #5EA4C6FF;
+--main-color: #ff2974FF;
+--hover-color: #bd1e56FF;
+--home-color: #ff2974FF;
 --home-size: 24px;
 --shadow: #00000066;
 --background-image: url('https://i.imgur.com/aGcYFlX.jpg');
